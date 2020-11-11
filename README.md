@@ -1,7 +1,7 @@
 # Human_Intention_Recognition_based_on_Hidden Markov Model
 
 ## Framework
-<div align=center><img width="1000" height="654" src="https://github.com/Make0930/Human_Intent_Recognition_Project/blob/master/IMG/Framework.png"/></div>
+<div align=center><img width="781" height="511" src="https://github.com/Make0930/Human_Intent_Recognition_Project/blob/master/IMG/Framework.png"/></div>
 
 ## Algorithm principle
 <div align=center><img width="781" height="360" src="https://github.com/Make0930/Human_Intent_Recognition_Project/blob/master/IMG/Algorithm-Principle-1.png"/></div>
