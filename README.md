@@ -26,12 +26,12 @@ When a human looks at a target A and points to the target A with his hand, the
 https://youtu.be/mmX7sHvnM7U
 
 Humans and robots work together. The robot randomly moves to a certain target. 
-     If the robot's grasping target is the same as the human's target, the robotic arm 
+     If the robot's target is the same as the human's target, the robotic arm 
      stops and returns to the initial position, then starts the next cycle.
 
 
 
 
 
-## 5. Demo of algorithm deployment on robot
+## 5. Demo of algorithm deployment on real robot
 https://youtu.be/CrtJobCQqs0
