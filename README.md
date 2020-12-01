@@ -14,6 +14,14 @@
 <div align=center><img width="781" height="201" src="https://github.com/Make0930/Human_Intent_Recognition_Project/blob/master/IMG/Parameter_beta_Compare.jpg"/></div>
 <p align="center">Parameter beta comparison and optimization</p>
 
+## 4. Demo of Visualization in Rviz for 2 Scenarios
+### 4.1 Robot helps Human
+https://youtu.be/w9yMCCOt8EY
 
-## 4. Demo
+When a human looks at a target A and points to the target A with his hand, the 
+     robotic arm moves to the target A. If the human changes to target B during 
+     the movement of the robotic arm, the robot also changes to the target B
+
+
+## 5. Demo of algorithm deployment on robot
 https://youtu.be/CrtJobCQqs0
